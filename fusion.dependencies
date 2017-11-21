@@ -1,0 +1,20 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "Adesh15/android_kernel_xiaomi_msm8953",
+    "target_path" : "kernel/xiaomi/msm8953",
+    "revision"    : "pf-o"
+  },
+ {
+    "remote"      : "github",
+    "repository"  : "Adesh15/proprietary_vendor_xiaomi",
+    "target_path" : "vendor/xiaomi",
+    "revision"    : "pf-o"
+ },
+ {
+    "remote"      : "github",
+    "repository"  : "Adesh15/device_xiaomi_mido",
+    "target_path" : "device/xiaomi/mido",
+    "revision"    : "pf-o"
+ }
+]
